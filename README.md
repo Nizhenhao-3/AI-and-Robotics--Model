@@ -14,7 +14,7 @@ Located in `the learn of torch and model/classifaction_net`, this section includ
 These implementations are aimed at understanding the fundamental architectures and mechanisms that have driven progress in image classification tasks.
 
 ### 2. Robot Learning Models
-In addition to classification networks, I have explored modern robot learning networks. So far,I only study and initial implemente the**diffusion policy**model.Future work includes studying **ACT**,**RT** and so on
+In addition to classification networks, I have explored modern robot learning networks. So far,I only study and initial implemente the**diffusion policy model** .Future work includes studying **ACT**,**RT1** and so on
 
 ## Purpose of the Repository
 This repository serves as a learning ground for both:
